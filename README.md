@@ -1,3 +1,4 @@
 # 2D-RPG
-It is a 2D RPG inspired by @RyiSnow on youtube 
-A simple treasure hunting game made for lovers. After completing quests, lover will be presented a gift ! 
+This 2D RPG, inspired by @RyiSnow on YouTube.
+<br />It is a treasure-hunting game but designed for lovers.<br />
+Upon completing quests, the player’s partner will be rewarded with a special gift!
